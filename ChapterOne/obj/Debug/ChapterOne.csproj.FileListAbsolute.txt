@@ -24,3 +24,31 @@ C:\Users\Vlinker\Documents\Visual Studio 2013\Projects\RedisInAction\ChapterOne\
 C:\Users\Vlinker\Documents\Visual Studio 2013\Projects\RedisInAction\ChapterOne\obj\Debug\ChapterOne.csprojResolveAssemblyReference.cache
 C:\Users\Vlinker\Documents\Visual Studio 2013\Projects\RedisInAction\ChapterOne\obj\Debug\ChapterOne.dll
 C:\Users\Vlinker\Documents\Visual Studio 2013\Projects\RedisInAction\ChapterOne\obj\Debug\ChapterOne.pdb
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\ChapterOne.dll.config
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\ChapterOne.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\ChapterOne.pdb
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\StackExchange.Redis.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Helpers.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Mvc.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Razor.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.Deployment.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.Razor.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\StackExchange.Redis.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Razor.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.Deployment.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Webpages.Razor.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Helpers.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\System.Web.Mvc.xml
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\obj\Debug\ChapterOne.csprojResolveAssemblyReference.cache
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\obj\Debug\ChapterOne.csproj.CoreCompileInputs.cache
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\obj\Debug\ChapterOne.dll
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\obj\Debug\ChapterOne.pdb
+D:\YzGitProject\RedisInAction\RedisInAction\ChapterOne\bin\Microsoft.Web.Infrastructure.dll
