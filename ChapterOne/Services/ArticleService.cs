@@ -128,6 +128,10 @@ namespace ChapterOne.Services
             redis.SetAdd(alphakey, "abc".Select(x => (RedisValue)x.ToString()).ToArray());
             redis.SetAdd(numkey, "123".Select(x => (RedisValue)x.ToString()).ToArray());
 
+            //redis.SetAdd(alphakey,"1");
+
+            //var result6 = redis.SetMembers(alphakey);
+
             var values = redis.SetCombine(SetOperation.Union,numkey,alphakey);
 
             var result3 = string.Join(",",values);
@@ -140,7 +144,33 @@ namespace ChapterOne.Services
 
             var result5 = string.Join(",",values);
 
-            redis.SetMove(numkey,alphakey,2);
+            //??
+            var result6 = redis.SetMove(numkey,alphakey,2);
+
+            var result7 = redis.SetMembers(numkey);
+
+            var result8 = redis.SetMembers(alphakey);
+
+            redis.SetAdd(alphakey,"apple");
+
+            var result9 = redis.SetScan(alphakey,"ap*");
+
+            var result10 = string.Join(",",result9);
+
+            var result11 = redis.SetScan(alphakey,"a*");
+
+            var result12 = string.Join(",",result11);
+
+            redis.SetCombineAndStore(SetOperation.Union, destinationkey, numkey, alphakey);
+
+            var result13 = redis.SetMembers(destinationkey);
+
+            //???
+            var result14 = redis.SetPop(numkey);
+
+            var result15 = redis.SetMembers(numkey);
+
+
 
 
 
